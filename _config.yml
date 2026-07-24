@@ -24,7 +24,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:maxpan172910@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/maxpan172910"}
-  - {title: Linkedin, icon: linkedin, url: "www.linkedin.com/in/max-pan-8138aa146"}
+  - {title: Linkedin, icon: linked-in, url: "www.linkedin.com/in/max-pan-8138aa146"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
